@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jhonata Vinicius 
 
-### A passionate developer from around the world
+### Desenvolvedor Full Stack em formação
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonataangelo892-hub&label=Profile views&color=0e75b6&style=flat" alt="jhonataangelo892-hub" /> </p>
 
